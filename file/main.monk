@@ -1,0 +1,5 @@
+let x = 5; // this is for testing only
+
+let abc = fn(a,b){
+    print(a + b);
+}
